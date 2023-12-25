@@ -12,7 +12,7 @@
       "required": false,
       "value": ""
     },
-    "SESSION_ID": {
+    "SESSION_ID": {Guru_c2e963e0-19c9-4ebe-b1cf-1035dae43061
       "description": "your session id",
       "required": true,
       "value": ""
